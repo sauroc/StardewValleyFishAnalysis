@@ -1,2 +1,2 @@
-"RMarkdown Files"/*.Rmd linguist-detectable=true
-"RMarkdown Files"/*.Rmd linguist-language=RMarkdown
+* linguist vendored
+*.Rmd linguist-vendored=false
