@@ -1,2 +1,1 @@
-"RMarkdown Files"/* linguist-documentation=false
-"RMarkdown Files"/* linguist-vendored
+"RMarkdown Files"/*.Rmd linguist-language=RMarkdown
