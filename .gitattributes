@@ -1,1 +1,2 @@
-*.* linguist-language=RMarkdown
+"RMarkdown Files"/*.* linguist-detectable=false
+"RMarkdown Files"/*.Rmd linguist-detectable=true
