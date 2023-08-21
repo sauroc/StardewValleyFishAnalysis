@@ -1,7 +1,7 @@
 # Stardew Valley Fish Analysis
 
 ## Overview
-This was a project I made in RStudio during my first year of university in my Foundations of Data Science course. I found a Stardew Valley dataset on Kaggle, properly cleaned it, and then analyzed the data against some hypotheses I had at the beginning of the project. My project focuses on the economy surrounding the fishing minigame in Stardew Vally. I used graphs to interpret the cleaned data and answer my hypotheses.
+This was a project I made in RStudio during my first year of university in my Foundations of Data Science course. I found a Stardew Valley dataset on Kaggle, properly cleaned it, and then analyzed the data against some hypotheses I had at the beginning of the project. My project focuses on the economy surrounding the fishing minigame in Stardew Valley. I used graphs to interpret the cleaned data and answer my hypotheses.
 
 ## Required Packages
 - Rstudio with R 4.2.2. 
